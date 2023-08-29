@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luisa Pereira
 - 👀 I’m interested in growing personally and professionally
 - 👀 Passionate with quality in any aspect of my life
-- 🌱 I’m currently learning API testing and Java programming
+- 🌱 I’m currently learning API testing, Java programming & automation testing
 - 💞️ I’m looking to collaborate on projects that help me continue growing
 
 <!---
